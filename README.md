@@ -13,6 +13,7 @@ $ git clone https://github.com/Dontharu/Morse-Link
 $ cd Morse-Link
 $ pip install -r requirements.txt
 $ python3 main.py
+```
 
 # Documentation
 
